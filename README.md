@@ -90,34 +90,37 @@ SQLite Tables:
 
 ---
 
-##  Run Locally
+# Run Locally
 
-To run the **backend**:
-```
+## To run the backend:
+```bash
 cd backend
 node index.js
-#To run the frontend:
+To run the frontend:
+bash
+Copy
+Edit
 cd frontend
 cd my-app
 npm run dev
-# Deployment
+Deployment
 The project is deployed on Vercel.
 
-##GitHub Repo: https://github.com/jakkulanissy10/Appointment-booking-healthcare
+GitHub Repo: Appointment Booking Healthcare
 
-# Notes
-##Used new Date() to track real-time and prevent past appointment dates
+Notes
+Used new Date() to track real-time and prevent past appointment dates
 
-##Used React Router DOM for navigation between doctor list and appointment booking
+Used React Router DOM for navigation between doctor list and appointment booking
 
-# Future Enhancements
-##Add authentication system
+Future Enhancements
+Add authentication system
 
-##Improve UI with more elegant design
+Improve UI with more elegant design
 
-##Dark/Light mode
+Dark/Light mode support
 
-##Notification or mail sender integration for confirmation
+Notification or mail sender integration for confirmation
 
-#Acknowledgments
-Inspired by Apollo 24x7 UI and real-world healthcare booking systems.
+Acknowledgments
+Inspired by Apollo 24×7 UI and real-world healthcare booking systems.
