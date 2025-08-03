@@ -32,8 +32,8 @@ A full-stack web application to book doctor appointments efficiently with a clea
 
 ##  Project Structure
 
-📦 frontend
-📦 src
+ frontend
+ src
 └── 📁 Components
 ├── 📁 AppointmentForm
 │ └── index.jsx
