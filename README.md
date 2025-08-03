@@ -102,7 +102,7 @@ Copy
 Edit
 cd frontend
 cd my-app
-npm run dev
+npm run dev```
 Deployment
 The project is deployed on Vercel.
 
