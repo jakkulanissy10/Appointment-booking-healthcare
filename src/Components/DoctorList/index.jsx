@@ -155,7 +155,7 @@ const DoctorList = () => {
       {/* Footer */}
       <footer className="bg-gray-200 text-gray-700 py-6 mt-10">
         <div className="max-w-6xl mx-auto px-4 flex flex-col sm:flex-row justify-between items-center text-center sm:text-left">
-          <p className="text-sm md:text-base font-medium">@ 2025 NiroGyan</p>
+          <p className="text-sm md:text-base font-medium">@ 2025 NirogGyan</p>
           <p className="text-sm md:text-base mt-2 sm:mt-0 flex items-center gap-1">
             Built with <span className="text-red-500">&#10084;&#65039;</span> & React
           </p>

@@ -7,7 +7,7 @@ function Header() {
         
         {/* Logo + Title */}
         <h1 className="text-2xl md:text-4xl font-extrabold text-blue-600 tracking-wide whitespace-nowrap">
-          Niro<span className="text-green-600">Gyan</span>
+          Nirog<span className="text-green-600">Gyan</span>
         </h1>
         
         {/* Tagline */}
